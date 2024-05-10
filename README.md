@@ -35,13 +35,13 @@ No site `ElevenLabs` utilizei o recurso de `Dublagem Automatizada (Tradução de
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-<p>
+
 <video width="400" controls>
   <source src="translated_to_english_youtube_video.mp4" type="video/mp4">
   <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   Your browser does not support HTML video.
 </video>
-</p>
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
