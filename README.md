@@ -17,35 +17,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+<br>
+<hr>
+<br>
+
+### Tradrução de vídeo de Português para Inglês ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei Inteligência Artificial para traduzir um vídeo do meu canal Youtube do idioma Portugês para Inglês.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ElevenLabs](https://elevenlabs.io/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No site `ElevenLabs` utilizei o recurso de `Dublagem Automatizada (Tradução de Vídeo)` que é um processo de tradução e substituição do áudio original de um vídeo por um novo idioma, preservando as características únicas das vozes originais dos locutores.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+<p>
+<video width="400" controls>
+  <source src="translated_to_english_youtube_video.mp4" type="video/mp4">
+  <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
+  Your browser does not support HTML video.
+</video>
+</p>
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
