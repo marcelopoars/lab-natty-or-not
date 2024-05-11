@@ -48,3 +48,37 @@ Clique na imagem para ver o resultado do desafio.
 
 #### 💭 Reflexão
 É incrível ver como as tecnologias de IA estão evoluindo a cada dia. Eu sei que ainda há muito o que melhorar, mas acredito que estamos no caminho. Eu fiquei bem animado com o resultado deste desafio e espero praticar e aprender muito mais sobre tecnologias de Inteligência Artificial.
+
+<br>
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align="left" 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/3664022?v=4"
+      style="margin-right: 16px;"
+    />
+    <strong>Marcelo Pereira</strong>
+    <br>
+    <a href="https://github.com/marcelopoars" target="_blank">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://linkedin.com/in/marcelopoars" target="_blank">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="https://instagram.com/dicadonerd" target="_blank">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://marcelopereira.dev" target="_blank">
+        Website (Portfólio)
+    </a>
+<p>
+
+<br>
+
+---
+
+Criado com 💜 por [Marcelo Pereira](https://github.com/marcelopoars)
