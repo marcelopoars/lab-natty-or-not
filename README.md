@@ -46,5 +46,5 @@ Clique na imagem para ver o resultado do desafio.
 
 [![Youtube thumbnail](https://i9.ytimg.com/vi/iTW6YZaGn3Y/mqdefault.jpg?sqp=CKTe-rEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGCcgYihyMA8=&rs=AOn4CLCuSzc8gEvZ-RfkvOjRJdTXHOTdUw)](https://www.youtube.com/watch?v=iTW6YZaGn3Y)
 
-#### 💭 Reflexão (Opcional)
-É incrível ver como as tecnologias de IA estão evoluindo a cada dia. Eu sei que ainda temos muito o que evoluir, mas acredito que estamos no caminho. Eu fiquei bem animado com o resultado deste desafio e espero praticar e aprender muito mais sobre tecnologias de Inteligência Artificial.
+#### 💭 Reflexão
+É incrível ver como as tecnologias de IA estão evoluindo a cada dia. Eu sei que ainda há muito o que melhorar, mas acredito que estamos no caminho. Eu fiquei bem animado com o resultado deste desafio e espero praticar e aprender muito mais sobre tecnologias de Inteligência Artificial.
