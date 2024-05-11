@@ -21,13 +21,13 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
 ## Resultado do desafio
 
 ### 📒 Descrição
-Utilizei Inteligência Artificial para traduzir um vídeo do meu canal Youtube do idioma Portugês para Inglês.
+Utilizei Inteligência Artificial para traduzir um vídeo do meu canal Youtube de **Português** para **Inglês**.
 
 #### 🤖 Tecnologias Utilizadas
 [ElevenLabs](https://elevenlabs.io/)
 
 #### 🧐 Processo de Criação
-No site `ElevenLabs` utilizei o recurso de `Dublagem Automatizada (Tradução de Vídeo)` que é um processo de tradução e substituição do áudio original de um vídeo por um novo idioma, preservando as características únicas das vozes originais dos locutores.
+No site **`ElevenLabs`** utilizei o recurso de **`Dublagem Automatizada (Tradução de Vídeo)`** que é um processo de tradução e substituição do áudio original de um vídeo por um novo idioma, preservando as características únicas das vozes originais dos locutores.
 
 #### 🚀 Resultados
 Clique na imagem para ver o resultado do desafio.
