@@ -1,6 +1,10 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+<br>
+
 > ℹ️ **NOTE:** Este repositório foi criado para o desafio "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
+
+<br>
 
 ## 🚀 Introdução
 
