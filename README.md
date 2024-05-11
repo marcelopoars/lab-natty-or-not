@@ -1,14 +1,12 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+> ℹ️ **NOTE:** Este repositório foi criado para o desafio "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
+
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
+## Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
@@ -19,29 +17,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 
 <br>
-<hr>
-<br>
 
-### Tradrução de vídeo de Português para Inglês ;)
+## Resultado do desafio
 
-## 📒 Descrição
+### 📒 Descrição
 Utilizei Inteligência Artificial para traduzir um vídeo do meu canal Youtube do idioma Portugês para Inglês.
 
-## 🤖 Tecnologias Utilizadas
+#### 🤖 Tecnologias Utilizadas
 [ElevenLabs](https://elevenlabs.io/)
 
-## 🧐 Processo de Criação
+#### 🧐 Processo de Criação
 No site `ElevenLabs` utilizei o recurso de `Dublagem Automatizada (Tradução de Vídeo)` que é um processo de tradução e substituição do áudio original de um vídeo por um novo idioma, preservando as características únicas das vozes originais dos locutores.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+#### 🚀 Resultados
+Clique na imagem para ver o resultado do desafio.
 
-<video width="400" controls>
-  <source src="translated_to_english_youtube_video.mp4" type="video/mp4">
-  <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
-  Your browser does not support HTML video.
-</video>
+> **Vídeo original**
 
+[![Youtube thumbnail](https://i9.ytimg.com/vi/iTW6YZaGn3Y/mqdefault.jpg?sqp=CKTe-rEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGCcgYihyMA8=&rs=AOn4CLCuSzc8gEvZ-RfkvOjRJdTXHOTdUw)](https://www.youtube.com/watch?v=gfH6ZJuMuS8)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+<br>
+
+> **Vídeo dublado / traduzido para inglês**
+
+[![Youtube thumbnail](https://i9.ytimg.com/vi/iTW6YZaGn3Y/mqdefault.jpg?sqp=CKTe-rEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGCcgYihyMA8=&rs=AOn4CLCuSzc8gEvZ-RfkvOjRJdTXHOTdUw)](https://www.youtube.com/watch?v=iTW6YZaGn3Y)
+
+#### 💭 Reflexão (Opcional)
+É incrível ver como as tecnologias de IA estão evoluindo a cada dia. Eu sei que ainda temos muito o que evoluir, mas acredito que estamos no caminho. Eu fiquei bem animado com o resultado deste desafio e espero praticar e aprender muito mais sobre tecnologias de Inteligência Artificial.
